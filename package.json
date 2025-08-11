@@ -1,0 +1,12 @@
+{
+  "name": "emoji-tokenizer",
+  "version": "1.0.0",
+  "description": "Fun emoji tokenizer for social media and messaging",
+  "main": "emoji-tokenizer.js",
+  "scripts": {
+    "start": "node demo.js"
+  },
+  "dependencies": {
+    "js-tiktoken": "^1.0.21"
+  }
+}
